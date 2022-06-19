@@ -5,18 +5,17 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# <i class="fas fa-paper-plane"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the Department of Medicine, Division of Hematology/Oncology at the [IU School of Medicine]((https://medicine.iu.edu/)).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="amasood@iu.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="amasood@iu.edu"
   style="button"
 %}
 {%
