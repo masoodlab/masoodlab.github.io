@@ -1,11 +1,11 @@
 ---
-title: Team
+title: People
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>People
 
 {% include section.html %}
 
@@ -23,7 +23,7 @@ nav:
 %}
 {%
   include feature.html
-  image="images/member_he.jpg"
+  image="images/my_image.jpg"
   headline="Cihat Erdoğan, Postdoctoral Researcher"
   text="Cihat Erdoğan is a postdoctoral fellow in Masood’s lab."
 %}
