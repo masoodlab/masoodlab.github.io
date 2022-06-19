@@ -31,6 +31,6 @@ nav:
   include feature.html
   image="images/member_she.jpg"
   headline="Meenakshi Rajamohan, PhD Student"
-  text="Cihat Erdoğan is a phd student in Masood’s lab."
+  text="Meenakshi Rajamohan is a phd student in Masood’s lab."
 %}
 {:.center}
