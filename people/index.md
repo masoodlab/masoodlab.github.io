@@ -23,7 +23,7 @@ nav:
 %}
 {%
   include feature.html
-  image="images/my_image.jpg"
+  image="images/my_image.png"
   headline="Cihat Erdoğan, Postdoctoral Researcher"
   text="Cihat Erdoğan is a postdoctoral fellow in Masood’s lab."
 %}
