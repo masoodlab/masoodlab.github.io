@@ -7,7 +7,9 @@ nav:
 
 # <i class="fas fa-paper-plane"></i>Contact
 
-Our lab is part of the Department of Medicine, Division of Hematology/Oncology at the [IU School of Medicine]((https://medicine.iu.edu/)).
+{% capture text %}
+Our lab is part of the Department of Medicine, Division of Hematology/Oncology at the [IU School of Medicine](https://medicine.iu.edu/).
+{% endcapture %}
 
 {%
   include link.html
@@ -22,9 +24,9 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(317) 948-7575"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-317-948-7575"
   style="button"
 %}
 {%
@@ -33,7 +35,7 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://goo.gl/maps/dtq4xSufwziKhiyR7"
   style="button"
 %}
 {:.center}
@@ -42,9 +44,9 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+535 Barnhill Drive
+RT 473
+Indianapolis, IN 46202
 {:.center}
 
 {% capture col1 %}
