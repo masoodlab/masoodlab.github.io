@@ -1,64 +1,71 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1186/s13059-022-02677-z
+  title: Refining colorectal cancer classification and clinical stratification through
+    a single-cell atlas
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Ateeq M. Khaliq
+  - Cihat Erdogan
+  - Zeyneb Kurt
+  - Sultan Sevgi Turgut
+  - Miles W. Grunvald
+  - Tim Rand
+  - Sonal Khare
+  - Jeffrey A. Borgia
+  - Dana M. Hayden
+  - Sam G. Pappas
+  - Henry R. Govekar
+  - Audrey E. Kam
+  - Jochen Reiser
+  - Kiran Turaga
+  - Milan Radovich
+  - Yong Zang
+  - Yingjie Qiu
+  - Yunlong Liu
+  - Melissa L. Fishel
+  - Anita Turk
+  - Vineet Gupta
+  - Ram Al-Sabti
+  - Janakiraman Subramanian
+  - Timothy M. Kuzel
+  - Anguraj Sadanandam
+  - Levi Waldron
+  - Arif Hussain
+  - Mohammad Saleem
+  - Bassel El-Rayes
+  - Ameen A. Salahudeen
+  - Ashiq Masood
+  publisher: Genome Biology
+  date: '2022-05-11'
+  link: https://doi.org/gqcsmj
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02677-z/MediaObjects/13059_2022_2677_Fig1_HTML.png
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+    link: https://github.com/masoodlab/CRC-Single-Cell
+- id: doi:10.1186/s12943-018-0923-9
+  title: Comparative proteogenomic analysis of right-sided colon cancer, left-sided
+    colon cancer and rectal cancer reveals distinct mutational profiles
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Robin Imperial
+  - Zaheer Ahmed
+  - Omer M. Toor
+  - "Cihat Erdo\u011Fan"
+  - Ateeq Khaliq
+  - Paul Case
+  - James Case
+  - Kevin Kennedy
+  - Lee S. Cummings
+  - Niklas Melton
+  - Shahzad Raza
+  - Banu Diri
+  - Ramzi Mohammad
+  - Bassel El-Rayes
+  - Timothy Pluard
+  - Arif Hussain
+  - Janakiraman Subramanian
+  - Ashiq Masood
+  publisher: Molecular Cancer
+  date: '2018-11-21'
+  link: https://doi.org/gfvwfm
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12943-018-0923-9/MediaObjects/12943_2018_923_Fig1_HTML.png
