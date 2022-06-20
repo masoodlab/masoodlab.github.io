@@ -2,6 +2,7 @@
 title: Publications
 nav:
   order: 3
+  tooltip: Our publications
 ---
 
 # <i class="fas fa-file-signature"></i>Publications
