@@ -40,7 +40,7 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### <i class="fas fa-mail-bulk"></i>Address
 
 535 Barnhill Drive
 RT 473
