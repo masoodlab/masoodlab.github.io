@@ -13,9 +13,9 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
   include link.html
   type="email"
   icon=""
-  text="amasood@iu.edu"
+  text="asmasood@iu.edu"
   tooltip=""
-  link="amasood@iu.edu"
+  link="asmasood@iu.edu"
   style="button"
 %}
 {%
