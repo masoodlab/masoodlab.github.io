@@ -2,20 +2,19 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research area and current projects
 ---
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Research topics will be included here.
 
 {% include section.html %}
 
-{% include search-box.html %}
+## Current Projects
 
-{% include search-info.html %}
+{% capture text %}
+Current projects will be added here.
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{:.center}
+{% endcapture %}
