@@ -25,7 +25,7 @@ nav:
   include feature.html
   image="images/my_image.png"
   headline="Cihat Erdoğan, Postdoctoral Researcher"
-  text="Cihat Erdoğan is a postdoctoral fellow in Masood’s lab."
+  text="Cihat Erdogan received his BSc, Msc, and PhD degrees in Computer Engineering from Kyrgyz-Turkish Manas University, Bishkek, Kyrgyzstan, Trakya University, Edirne, Turkey and Yildiz Technical University, Istanbul, Turkey, respectively. He is currently a postdoctoral fellow in Masood’s lab. His current research topics include computational biology, bioinformatics, biological data integration, and data mining."
 %}
 {%
   include feature.html
