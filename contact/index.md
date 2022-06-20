@@ -7,9 +7,7 @@ nav:
 
 # <i class="fas fa-paper-plane"></i>Contact
 
-{% capture text %}
 Our lab is part of the Department of Medicine, Division of Hematology/Oncology at the [IU School of Medicine](https://medicine.iu.edu/).
-{% endcapture %}
 
 {%
   include link.html
@@ -48,19 +46,3 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
 RT 473
 Indianapolis, IN 46202
 {:.center}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
