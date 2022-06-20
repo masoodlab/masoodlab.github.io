@@ -13,8 +13,6 @@ Research topics will be included here.
 
 ## Current Projects
 
-{% capture text %}
 Current projects will be added here.
 
 {:.center}
-{% endcapture %}
