@@ -33,4 +33,3 @@ nav:
   headline="Meenakshi Rajamohan, PhD Student"
   text="Meenakshi Rajamohan is a phd student in Masood’s lab."
 %}
-{:.center}
