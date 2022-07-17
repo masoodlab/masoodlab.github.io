@@ -18,13 +18,13 @@ nav:
 {%
   include feature.html
   image="images/ateeq.jpg"
-  headline="Ateeq M. Khaliq, Postdoctoral Researcher"
-  text="Ateeq M. Khaliq is a postdoctoral fellow in Masood’s lab."
+  headline="Ateeq M. Khaliq, Postdoctoral Fellow in Medicine"
+  text="Ateeq M. Khaliq is a postdoctoral fellow in Masood’s lab. Ateeq Khaliq received his BSc, Msc, and PhD degrees in Biotechnology and Bioinformatics from Bangalore University. He is currently a postdoctoral fellow in Masood’s lab. His current research topics include computational biology, bioinformatics, biological data integration."
 %}
 {%
   include feature.html
   image="images/my_image.png"
-  headline="Cihat Erdoğan, Postdoctoral Researcher"
+  headline="Cihat Erdoğan, Postdoctoral Fellow in Medicine"
   text="Cihat Erdogan received his BSc, Msc, and PhD degrees in Computer Engineering from Kyrgyz-Turkish Manas University, Bishkek, Kyrgyzstan, Trakya University, Edirne, Turkey and Yildiz Technical University, Istanbul, Turkey, respectively. He is currently a postdoctoral fellow in Masood’s lab. His current research topics include computational biology, bioinformatics, biological data integration, and data mining."
 %}
 {%
