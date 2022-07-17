@@ -11,13 +11,13 @@ nav:
 
 {%
   include feature.html
-  image="images/member_he.jpg"
+  image="images/masood.jpg"
   headline="Ashiq Masood, Principal Investigator"
   text="Ashiq Masood is an associate professor of medicine at IU School of Medicine."
 %}
 {%
   include feature.html
-  image="images/member_he.jpg"
+  image="images/ateeq.jpg"
   headline="Ateeq M. Khaliq, Postdoctoral Researcher"
   text="Ateeq M. Khaliq is a postdoctoral fellow in Masood’s lab."
 %}
@@ -29,7 +29,7 @@ nav:
 %}
 {%
   include feature.html
-  image="images/member_she.jpg"
+  image="images/meenakshi.jpg"
   headline="Meenakshi Rajamohan, PhD Student"
   text="Meenakshi Rajamohan is a phd student in Masood’s lab."
 %}

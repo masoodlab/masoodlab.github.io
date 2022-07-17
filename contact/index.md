@@ -20,15 +20,6 @@ Our lab is part of the Department of Medicine, Division of Hematology/Oncology a
 %}
 {%
   include link.html
-  type="phone"
-  icon=""
-  text="(317) 948-7575"
-  tooltip=""
-  link="+1-317-948-7575"
-  style="button"
-%}
-{%
-  include link.html
   type="address"
   icon=""
   text="Google Maps"
